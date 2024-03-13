@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Francisca van Maurik
 
 * 🌍  I'm based in the Netherlands
-* 🖥️  I'm a creative Front-end Developer
+* 🖥️  I'm a Product Designer(UX) and sometimes a creative Front-end Developer
 * 🖥️  I love gaming, art and tech
 
 
